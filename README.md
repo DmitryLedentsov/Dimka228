@@ -84,7 +84,7 @@ C нᴀω, сʏպии в пᴀмяти!
 
 
 - 📫 How to reach me **ledentd@mail.ru**
-
+- or in telegram **@dimka_228**
 
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=DmitryLedentsov&show_icons=true&count_private=true&theme=radical)
