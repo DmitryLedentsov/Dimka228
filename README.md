@@ -10,6 +10,17 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<style>
+@font-face {
+    font-family: 'myFirstFont';
+    src: url('fonts/f.ttf') format('truetype');
+}
+  
+h2 {
+    font-family: myFirstFont;
+    color: rgb(238, 250, 0);
+}
+</style>
 <h1 align="center">Hello, I'm Dmitry Ledentsov</h1>
 <h3 align="center">A software engineer from Russia</h3>
 
@@ -17,11 +28,10 @@
 
 
 <img src="me.png" alt="rbetik12" />
-<h2> jsdhsg </h2>
 <h2>
 
 <br>
-C наш, сущий в памяти! <br>
+С наш, сущий в памяти! <br>
 да компилируется код Твой; <br>
 да приидет царствие Софта Твоего; <br>
 да будут действительны указатели Твои <br>
