@@ -1,15 +1,6 @@
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content=
-          "width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
 <style>
 @font-face {
     font-family: 'myFirstFont';
@@ -50,9 +41,6 @@ Enter.
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=DmitryLedentsov&show_icons=true&count_private=true&theme=radical)
 
-
-</body>
-</html>
 
 
 
