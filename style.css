@@ -1,9 +1,10 @@
 @font-face {
-    font-family: myFirstFont;
-    src: url(fonts/f.ttf);
+    font-family: 'myFirstFont';
+    src: url('fonts/f2.ttf') format('truetype');
 }
   
-h3 {
+blockquote {
     font-family: myFirstFont;
-    color: darkgreen;
+    color: rgb(238, 250, 0);
+    font-size: 10px;
 }
