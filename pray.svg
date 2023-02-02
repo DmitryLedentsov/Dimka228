@@ -1,0 +1,32 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          width: 100%;
+          height: 300px;
+          background-color: black;
+          color: white;
+        }
+      </style>
+
+      <div class="container">
+        <h2>
+С наш, сущий в памяти! 
+да компилируется код Твой; 
+да приидет царствие Софта Твоего;
+да будут действительны указатели Твои 
+и на стеке как в куче; 
+блок памяти насущный дашь нам днесь; 
+и прости нам варнинги наши, 
+как и мы избавляемся от ошибок наших; 
+и не введи нас в бесконечный цикл, 
+но избави нас от лукавого сегфолта. 
+Ибо Твое есть Царство и сила и слава во веки. 
+Enter.
+</h2>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
