@@ -17,7 +17,6 @@
 
 
 
-
 <h2>
 <img src="me.png" alt="rbetik12" /> </p>
 C наш, сущий в памяти! <br>
