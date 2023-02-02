@@ -3,7 +3,7 @@
     src: url('fonts/f.ttf') format('truetype');
 }
   
-h2 {
+h1 {
     font-family: myFirstFont;
     color: rgb(238, 250, 0);
 }
