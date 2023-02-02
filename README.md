@@ -16,9 +16,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DmitryLedentsov&label=Profile%20views&color=0e75b6&style=flat" alt="rbetik12" /> </p>
 
 
-
+<img src="me.png" alt="rbetik12" />
 <h2>
-<img src="me.png" alt="rbetik12" /> </p>
+
+<br>
 C наш, сущий в памяти! <br>
 да компилируется код Твой; <br>
 да приидет царствие Софта Твоего; <br>
