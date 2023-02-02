@@ -16,9 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DmitryLedentsov&label=Profile%20views&color=0e75b6&style=flat" alt="rbetik12" /> </p>
 
 <br> <br>
-<img src="me.png" alt="rbetik12" /> </p>
-<br>
-<img src="pray.jpg" alt="rbetik12" /> </p>
+
 
 
 <!--
@@ -76,7 +74,12 @@ C нᴀω, сʏպии в пᴀмяти!
 Ввод.
 </h2> -->
 
-
+<table>
+  <tr>
+    <th><img src="me.png" alt="rbetik12" /> </th>
+    <th><img src="pray.jpg" alt="rbetik12" /> </th>
+  </tr>
+</table>
 <br><br> <br>
 
 
@@ -84,6 +87,7 @@ C нᴀω, сʏպии в пᴀмяти!
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=DmitryLedentsov&show_icons=true&count_private=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryLedentsov&layout=compact)
 
 </body>
 </html>
