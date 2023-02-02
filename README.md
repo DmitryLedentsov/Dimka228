@@ -1,17 +1,4 @@
 
-
-
-<style>
-@font-face {
-    font-family: 'myFirstFont';
-    src: url('fonts/f.ttf') format('truetype');
-}
-  
-h2 {
-    font-family: myFirstFont;
-    color: rgb(238, 250, 0);
-}
-</style>
 <h1 align="center">Hello, I'm Dmitry Ledentsov</h1>
 <h3 align="center">A software engineer from Russia</h3>
 
